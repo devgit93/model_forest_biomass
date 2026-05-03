@@ -1,5 +1,7 @@
-# model_forest_biomass
-Protótipo de aplicação do modelo Pantropical de cálculo de biomassa, com processamento automático e visualização para desktop
+# MPTropic
+Biomass estimation using the pantropical model by Chave et al., (2014).
+
+Protótipo de aplicação do modelo pantropical para estimativa de biomassa acima do solo, com processamento automático de dados e visualização em ambiente desktop.
 
 Aplicação desktop desenvolvida em Python para processamento e análise de dados experimentais de biomassa através da equação alométrica de Chave et al., (2014). O software permite carregar planilhas aplicando a equação automaticamente, visualizar os resultados e exportar os dados processados. O processamento é eficaz para dados experimentais de inventário florestal, quantificação de biomassa acima do solo para estudos de licenciamento dentre outros fins.
 
@@ -21,7 +23,7 @@ H = altura da espécie (m)
 - Exportação de resultados
 
 # Interface
-
+Exemplo de dados simulados
 ![Interface do software](interface.png)
 
 # ⚠️ A planilha de entrada deve conter as colunas x1 (DAP), x2 (H) e p (densidade básica).
