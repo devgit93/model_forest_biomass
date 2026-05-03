@@ -26,7 +26,7 @@ H = altura da espécie (m)
 Exemplo de dados simulados
 ![Interface do software](interface.png)
 
-# ⚠️ A planilha de entrada deve conter as colunas x1 (DAP), x2 (H) e p (densidade básica).
+# ⚠️ A planilha de entrada deve conter as colunas "p" (densidade básica), "x1" (DAP) e "x2" (H), exatamente _com os mesmo termos de string_.
 
 # Tecnologias utilizadas
 
