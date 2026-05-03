@@ -26,8 +26,8 @@ H = altura da espécie (m)
 Exemplo de dados simulados
 ![Interface do software](interface.png)
 
-⚠️ A planilha de entrada deve conter as colunas "p" (densidade básica), "x1" (DAP) e "x2" (H), exatamente com os mesmo termos de string.
-⚠️ _The input dataframe must contain the columns "p" (basic densit), "x1" (DAP) e "x2" (H), with exactly the same string terms._
+⚠️ A planilha de entrada deve conter as colunas "p" (densidade básica), "x1" (DAP) e "x2" (H), exatamente com os mesmo termos.
+⚠️ _The input dataframe must contain the columns "p" (basic densit), "x1" (DAP) e "x2" (H), with exactly the same terms._
 
 # Tecnologias utilizadas
 
@@ -37,11 +37,10 @@ Exemplo de dados simulados
 * Matplotlib
 
 # Como abrir
-Você pode baixar aqui: https://github.com/seu_usuario/seu_repo/releases
-
-1. Baixe o arquivo `app.exe`
-2. Execute o programa
-3. Carregue sua planilha
+1. Você pode baixar aqui:  https://github.com/devgit93/MPTropic--model_forest_biomass/releases/tag/v1.0
+2. Baixe o arquivo `MPTropic.exe` no final da página no tópico "Assents"
+3. Execute o programa
+4. Carregue sua planilha
 
 #📄 Licença
 Este projeto está licenciado sob a licença MIT.
