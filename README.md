@@ -42,3 +42,6 @@ Você pode baixar aqui: https://github.com/seu_usuario/seu_repo/releases
 
 #📄 Licença
 Este projeto está licenciado sob a licença MIT.
+
+# Referências
+Chave, J., Réjou-Méchain, M., Búrquez, A., Chidumayo, E., Colgan, M.S., Delitti, W.B.C., Duque, A., Eid, T., Fearnside, P.M., Goodman, R.C., Henry, M., Martínez-Yrízar, A., Mugasha, W.A., Muller-Landau, H.C., Mencuccini, M., Nelson, B.W., Ngomanda, A., Nogueira, E.M., Ortiz-Malavassi, E., Pélissier, R., Ploton, P., Ryan, C.M., Saldarriaga, J.G. and Vieilledent, G. Improved allometric models to estimate the aboveground biomass of tropical trees. Global Change Biology, 20: 3177-3190. 2014. https://doi.org/10.1111/gcb.12629
