@@ -1,5 +1,5 @@
 # MPTropic
-Biomass estimation using the pantropical model by Chave et al., (2014).
+Biomass estimation using the pantropical model by Chave _et al_., (2014).
 
 Protótipo de aplicação do modelo pantropical para estimativa de biomassa acima do solo, com processamento automático de dados e visualização em ambiente desktop.
 
@@ -26,7 +26,8 @@ H = altura da espécie (m)
 Exemplo de dados simulados
 ![Interface do software](interface.png)
 
-# ⚠️ A planilha de entrada deve conter as colunas "p" (densidade básica), "x1" (DAP) e "x2" (H), exatamente _com os mesmo termos de string_.
+⚠️ A planilha de entrada deve conter as colunas "p" (densidade básica), "x1" (DAP) e "x2" (H), exatamente com os mesmo termos de string.
+⚠️ _The input dataframe must contain the columns "p" (basic densit), "x1" (DAP) e "x2" (H), with exactly the same string terms._
 
 # Tecnologias utilizadas
 
