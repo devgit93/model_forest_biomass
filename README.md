@@ -38,7 +38,7 @@ Exemplo de dados simulados
 
 # Como abrir
 1. Você pode baixar aqui:  https://github.com/devgit93/MPTropic--model_forest_biomass/releases/tag/v1.0
-2. Baixe o arquivo `MPTropic.exe` no final da página no tópico "Assents"
+2. Baixe o arquivo `MPTropic.exe` no final da página no tópico "Assets"
 3. Execute o programa
 4. Carregue sua planilha
 
